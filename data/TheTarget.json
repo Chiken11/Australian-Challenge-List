@@ -1,0 +1,24 @@
+{
+    "id": 111168708,
+    "name": "The Target",
+    "author": "GDTomon",
+    "creators": ["GDTomon"],
+    "verifier": "GDTomon",
+    "verification": "https://youtu.be/ldPJl_5aCdU",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/QlYhH1tsz_k",
+            "percent": 100,
+            "hz": 240
+        },
+                        {
+            "user": "1b4me",
+            "link": "https://www.youtube.com/watch?v=dPKQ9nfH_iI",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
