@@ -1,0 +1,24 @@
+{
+    "id": 108589924,
+    "name": "Australian Circles",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://www.youtube.com/watch?v=KJiALC79dfw",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=KJiALC79dfw",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=dT44OV04OPI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
